@@ -2,6 +2,7 @@ google.com, pub-5633326208233461, DIRECT, f08c47fec0942fa0
 facebook.com, 321914023393149, RESELLER, c3e20eee3f780d68
 google.com, pub-9116951535958534, DIRECT, f08c47fec0942fa0
 facebook.com, 677601407513396, RESELLER, c3e20eee3f780d68
+facebook.com, 1274946395946836, RESELLER, c3e20eee3f780d68
 google.com, pub-9182195730312722, DIRECT, f08c47fec0942fa0
 google.com, pub-9791157155182699, DIRECT, f08c47fec0942fa0
 vungle.com, 599c1aee9a165cfb58009a10, DIRECT, c107d686becd2d77
@@ -91,7 +92,6 @@ google.com, pub-2039256953198302, RESELLER
 google.com, pub-7334592339393225, DIRECT, f08c47fec0942fa0
 google.com, pub-7900980305184035, DIRECT, f08c47fec0942fa0
 google.com, pub-1474238860523410, DIRECT, f08c47fec0942fa0
-facebook.com, 1274946395946836, RESELLER, c3e20eee3f780d68
 a4g.com, 2775364, DIRECT
 google.com, pub-1232265399417302, RESELLER
 indexexchange.com, 186547, RESELLER, 50b1c356f2c5c8fc
@@ -953,7 +953,7 @@ ucfunnel.com, par-9A292878A83482E214D28D3933E8294B, RESELLER
 aralego.com, par-9A292878A83482E214D28D3933E8294B, RESELLER
 yeahmobi.com, 107432, RESELLER
 smartyads.com, 100118, RESELLER, fd2bde0ff2e62c5d
-airnowplatform.com, 7000012, RESELLER
+airnowplatform.com, 7000012, RESELLERS
 algorix.co, 60532, RESELLER, 5b394c12fea27a1d
 contextweb.com , 562615, RESELLER, 89ff185a4c4e857c
 gamaigroup.com, 423056, RESELLER
@@ -1154,7 +1154,7 @@ bidence.com, 4b0d45fa8be73ba2dde3e3569ba1831f, RESELLER
 mman.kr, 32213, RESELLER
 visiblemeasures.com, 1020, RESELLER
 tubia.com, 40104, RESELLER
-gitberry.com,405100012, RESELLER
+gitberry.com,405100012,reseller
 acexchange.co.kr, 1195988919, RESELLER
 rubiconproject.com, 25482, RESELLER , 0bfd66d529a55807
 dauup.com, 34101, RESELLER #Verve
@@ -1264,7 +1264,7 @@ loopme.com,11322,RESELLER,6c8d5f95897a5a3b
 openx.com,540298543,RESELLER,6a698e2ec38604c6
 lkqd.net,647,RESELLER,59c49fa9598a0117
 lkqd.net,654,RESELLER,59c49fa9598a0117
-152media.info, 152M989, RESELLER, 20250228-10250307-66616679
+152media.info, 152M989, RESELLER
 opera.com, pub4261820774272, RESELLER, 55a0c5fd61378de3
 mman.kr, 32032, RESELLER
 gitberry.com, 405100012, RESELLER
@@ -1783,7 +1783,6 @@ pubmatic.com, 155975, RESELLER, 5d62403b186f2ace
 pubnative.net, 1007249, RESELLER, d641df8625486a7b
 zmaticoo.com, 5135010, RESELLER
 vungle.com, 69dc96d90e0891e59aa24795, DIRECT, c107d686becd2d77
-OWNERDOMAIN=adxcorp.kr
 blueseasx.com, 203625, RESELLER
 ushareit.com, lc7dc692567a127a57, RESELLER
 video.unrulymedia.com, 657436911, RESELLER
@@ -1832,3 +1831,8 @@ sharethrough.com, ibazay96, RESELLER, d53b998a7bd4ecd2
 thunder-monetize.com, 3692155372, RESELLER
 rubiconproject.com, 28169, RESELLER, 0bfd66d529a55807
 openx.com, 561446248, RESELLER, 6a698e2ec38604c6
+taurusx.com, 70119, RESELLER
+risecodes.com, 662a26f1f3d42a00015ffbad, RESELLER
+conversantmedia.com, 100357, RESELLER, 03113cd04947736d
+selectmedia.asia, 645b5a31e427dc0a87094fc4, RESELLER, e365c871a27c655d
+video.unrulymedia.com, 841707281, RESELLER, 98c21ef9a666c68b
